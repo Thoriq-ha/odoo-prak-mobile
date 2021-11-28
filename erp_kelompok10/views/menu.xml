@@ -1,0 +1,8 @@
+
+<odoo>
+    <data>
+        <!-- This Menu Item must have a parent and an action -->
+        <menuitem id="kelompok10_prodi" name="Prak RPL kelas F" sequence="10"/>
+        <menuitem id="menu_prodi" name="Master prodi" parent="kelompok10_prodi" sequence="20"/>
+    </data>
+</odoo>
